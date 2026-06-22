@@ -11,6 +11,9 @@ Because the radios are running at 915 MHz, the open range will be realy good whe
 
 Also, this radio gives you the ability to fly way out of range and altitude, and break alot of FAA rules. Please check the rules in your area for how far you can go from your controller and the maximum altitude. I would recommend always being under 400 feet and always being able to see your drone clearly. ALSO REGISTER YOUR DRONE. 
 
+Wiring Diagram:
+<img width="1087" height="569" alt="image" src="https://github.com/user-attachments/assets/21d085f7-92cf-4744-83d1-ed930bb2ae88" />
+
 CAD Screenshots: 
 
 <img width="582" height="685" alt="image" src="https://github.com/user-attachments/assets/4bde53b5-fc35-42f5-afaa-81f87cc4d0e1" />
