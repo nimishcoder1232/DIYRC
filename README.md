@@ -7,6 +7,10 @@ The controller needs to be powered via USB. Preferably on a laptop so you can ca
 
 Also, note that the radios need to be paired on the same channel and frequency before the code can be used. 
 
+Because the radios are running at 915 MHz, the open range will be realy good where there are no obstructions. I am expecting a kilometer or two. Though this drone will be usless, if there are obstacles, like in a forest, or in a large city, then it will be effective. If you want a more balanced connection, get a 2.4 connection. 
+
+Also, this radio gives you the ability to fly way out of range and altitude, and break alot of FAA rules. Please check the rules in your area for how far you can go from your controller and the maximum altitude. I would recommend always being under 400 feet and always being able to see your drone clearly. ALSO REGISTER YOUR DRONE. 
+
 CAD Screenshots: 
 
 <img width="582" height="685" alt="image" src="https://github.com/user-attachments/assets/4bde53b5-fc35-42f5-afaa-81f87cc4d0e1" />
