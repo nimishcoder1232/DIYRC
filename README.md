@@ -5,10 +5,12 @@ The way this works is that the receiver needs to connect to the craft via a UART
 
 The controller needs to be powered via USB. Preferably on a laptop so you can capture serial output for debugging. The receiver will have a ground wire and a 3V3 wire coming out, to be powered by the craft. The usb port is only for debugging. 
 
+Also, note that the radios need to be paired on the same channel and frequency before the code can be used. 
+
 CAD Screenshots: 
 
 <img width="582" height="685" alt="image" src="https://github.com/user-attachments/assets/4bde53b5-fc35-42f5-afaa-81f87cc4d0e1" />
 
 <img width="1010" height="783" alt="image" src="https://github.com/user-attachments/assets/5b4fa767-8927-4927-815a-8c68b00756d3" />
 
-This project has no PCB as I did not feel the need to add a pcb, just for a few simple connections. 
+This project has no PCB, as I did not feel the need to add a PCB, just for a few simple connections. Wires will be soldered dirrectly to the microcontroller, for simplicity. My cases have enough space for the wires to fit. 
