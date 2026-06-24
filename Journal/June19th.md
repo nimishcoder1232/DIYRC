@@ -1,4 +1,4 @@
-
+Time spent: 1 Hour 20 min
 
 Here is the lapse -> https://lapse.hackclub.com/timelapse/6pbEY-YtKHdW
 
