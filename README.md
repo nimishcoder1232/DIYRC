@@ -4,7 +4,12 @@
 This is the repo for an RC transmitter and receiver. The transmitter can operate by itself. The receiver is designed to plug into any aircraft flight computer, using a UART connection. 
 
 ## Wiring Diagram:
-<img width="1087" height="569" alt="image" src="https://github.com/user-attachments/assets/21d085f7-92cf-4744-83d1-ed930bb2ae88" />
+
+#### Transmitter: 
+<img width="1073" height="792" alt="image" src="https://github.com/user-attachments/assets/ce437f48-ca7c-4957-b7d8-2a3611f9397a" />
+
+#### Receiver: 
+<img width="1075" height="846" alt="image" src="https://github.com/user-attachments/assets/081e5da9-6790-427e-84e3-7cc461ca0b95" />
 
 ## CAD Screenshots: 
 
